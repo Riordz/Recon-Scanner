@@ -1,0 +1,6 @@
+The Port Scan Feature of This Scanner is Utilized to Determine the Status of Ports from a target IP.
+
+A port is a virtual point where network connections start and end. Ports are software-based and managed by a computer's operating system. Each port is associated with a specific process or service.
+
+A port scan is a network reconnaissance technique designed to identify which ports are open on a computer. This can enable the scanner to identify the applications running on the system as certain programs listen on particular ports and react to traffic in certain ways
+

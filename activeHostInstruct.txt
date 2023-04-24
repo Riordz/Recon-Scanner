@@ -1,0 +1,1 @@
+The Active Host Feature of this Scanner utilizes the ARP module within Windows to identify new/recent devices on your network. This feature also returns the associated MAC (Media Access Control) address of the device.
